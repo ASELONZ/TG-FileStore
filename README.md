@@ -34,8 +34,7 @@
 ### Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/TG-FileStore)
 
-#### Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/B-l0kI?referralCode=ABQQNR)
 
 
 ## Commands:
