@@ -124,7 +124,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/greymatters_bots_discussion)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Wait](https://t.me/Defenderofthemultiverse_bot)",
                                      disable_web_page_preview=True)
             return
 
@@ -152,7 +152,7 @@ async def main(bot: Client, message: Message):
         try:
             forwarded_msg = await message.forward(Config.DB_CHANNEL)
             file_er_id = str(forwarded_msg.id)
-            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Grey_{str_to_b64(file_er_id)}"
+            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Defenderofthemultiverse_bot{str_to_b64(file_er_id)}"
             CH_edit = await bot.edit_message_reply_markup(message.chat.id, message.id,
                                                           reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(
                                                               "Get Sharable Link", url=share_link)]]))
@@ -318,8 +318,11 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://bit.ly/3TddbNg")
+                        InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/thewarriorsreal"),
+                        InlineKeyboardButton("Chᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/ANKIT3690"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
+
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -336,8 +339,11 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://bit.ly/3TddbNg")
+                        InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/thewarriorsreal"),
+                        InlineKeyboardButton("Chᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/ANKIT3690"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
+
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -354,7 +360,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/+IezzVbvzlKxlODY1")
+                        InlineKeyboardButton("Chᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -362,8 +368,8 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/greymatters_bots_discussion"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/greymatter_bots")
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/ANKIT3690"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
                     ]
                 ]
             )
@@ -411,8 +417,10 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/greymatters_bots_discussion"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/greymatter_bots")
+                        InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/thewarriorsreal"),
+                        InlineKeyboardButton("Chᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/ANKIT3690"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
