@@ -74,7 +74,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/+IezzVbvzlKxlODY1")
+                        InlineKeyboardButton("Chᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -82,8 +82,8 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/greymatter_bots"),
-                        InlineKeyboardButton(" Support Group", url="https://t.me/greymatters_bots_discussion")
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/ANKIT3690"),
+                        InlineKeyboardButton("Oᴡɴᴇʀ", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
                     ]
                 ]
             )
@@ -152,7 +152,7 @@ async def main(bot: Client, message: Message):
         try:
             forwarded_msg = await message.forward(Config.DB_CHANNEL)
             file_er_id = str(forwarded_msg.id)
-            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=GreyMatter_{str_to_b64(file_er_id)}"
+            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Grey_{str_to_b64(file_er_id)}"
             CH_edit = await bot.edit_message_reply_markup(message.chat.id, message.id,
                                                           reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(
                                                               "Get Sharable Link", url=share_link)]]))
