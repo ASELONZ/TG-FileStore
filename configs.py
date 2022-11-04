@@ -44,5 +44,5 @@ This Bot is only for file sharing made by my creator.
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
 I provide permanent files shareable link.
-Credits:[UNKNOWN]((tg://user?id={}))
+Credits:[UNKNOWN](tg://settings)
 """
