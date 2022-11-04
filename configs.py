@@ -43,8 +43,6 @@ This Bot is only for file sharing made by my creator.
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
-How to Use Bot & it's Benefits??
-📢 Send me any File & It will be uploaded in My Database & You will Get the File Link.
-⚠️ Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
-❌ **PORNOGRAPHY CONTENTS** are strictly prohibited & get Permanent Ban.
+𝖳𝗈 𝖺𝖼𝖼𝖾𝗌𝗌 𝖿𝗂𝗅𝖾𝗌 𝖩𝗈𝗂𝗇 𝖳𝗁𝖾 𝗋𝖾𝗊𝗎𝗂𝗋𝖾𝖽 [C𝗁𝖺𝗇𝗇𝖾𝗅]("https://t.me/defenderofthemultiverse")
+
 """
