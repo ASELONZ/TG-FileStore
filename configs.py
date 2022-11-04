@@ -26,10 +26,10 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔸 **Mʏ Nᴀᴍᴇ:** [Dᴇғᴇɴᴅᴇʀ](https://t.me/{BOT_USERNAME})
 
-├🔸 **Oᴡɴᴇʀ:** [@ANKIT3690](https://t.me/ANKIT3690) 
-├🔸 **Oᴡɴᴇʀ:** [@Saurav3BV6SA9LLElon7Musk](https://t.me/Saurav3BV6SA9LLElon7Musk) 
+├🔸 **Oᴡɴᴇʀ:** [ANKIT3690](https://t.me/ANKIT3690) 
+├🔸 **Oᴡɴᴇʀ:** [Saurav3BV6SA9LLElon7Musk](https://t.me/Saurav3BV6SA9LLElon7Musk) 
 │
-├🔹 **Gʀᴏᴜᴘ:** [𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ](https://t.me/thewarriorsreal )
+├🔹 **Gʀᴏᴜᴘ:** [𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ](https://t.me/thewarriorsreal)
 │
 ├🔸 **Cᕼᴀɴɴᴇʟ:** [𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄](https://t.me/defenderofthemultiverse)
 │
@@ -43,6 +43,6 @@ This Bot is only for file sharing made by my creator.
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
-𝖳𝗈 𝖺𝖼𝖼𝖾𝗌𝗌 𝖿𝗂𝗅𝖾𝗌 𝖩𝗈𝗂𝗇 𝖳𝗁𝖾 𝗋𝖾𝗊𝗎𝗂𝗋𝖾𝖽 [C𝗁𝖺𝗇𝗇𝖾𝗅]("https://t.me/defenderofthemultiverse")
+𝖳𝗈 𝖺𝖼𝖼𝖾𝗌𝗌 𝖿𝗂𝗅𝖾𝗌 𝖩𝗈𝗂𝗇 𝖳𝗁𝖾 𝗋𝖾𝗊𝗎𝗂𝗋𝖾𝖽 [C𝗁𝖺𝗇𝗇𝖾𝗅](https://t.me/defenderofthemultiverse)
 
 """
