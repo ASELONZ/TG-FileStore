@@ -24,7 +24,7 @@ This is a Permanent FileStore Bot.
 │
 ├🔸 **Mʏ Nᴀᴍᴇ:** [Dᴇғᴇɴᴅᴇʀ](https://t.me/{BOT_USERNAME})
 
-├🔸 **Oᴡɴᴇʀ:** [ANKIT3690](https://t.me/ANKIT3690) 
+├🔸  ✯Oᴡɴᴇʀ: <a href=https://t.me/ANKIT3690>꧁𓊈 ∞✞ঔৣ۝ᴬᴺᴷᴵᵀ۝ঔৣ✞∞𓊉꧂</a>
 ├🔸 **Oᴡɴᴇʀ:** [Saurav3BV6SA9LLElon7Musk](https://t.me/Saurav3BV6SA9LLElon7Musk) 
 │
 ├🔹 **Gʀᴏᴜᴘ:** [𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ](https://t.me/thewarriorsreal)
