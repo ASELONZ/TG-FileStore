@@ -20,9 +20,7 @@ class Config(object):
 	OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
 	ABOUT_BOT_TEXT = f"""
 This is a Permanent FileStore Bot. 
-Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link. 
-
-╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
+╭────[ **Dᴇғᴇɴᴅᴇʀ**]────⍟
 │
 ├🔸 **Mʏ Nᴀᴍᴇ:** [Dᴇғᴇɴᴅᴇʀ](https://t.me/{BOT_USERNAME})
 
@@ -36,8 +34,8 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-├🔸 **Oᴡɴᴇʀ:** [@ANKIT3690](https://t.me/ANKIT3690) 
-├🔸 **Oᴡɴᴇʀ:** [@Saurav3BV6SA9LLElon7Musk](https://t.me/Saurav3BV6SA9LLElon7Musk)
+├🔸 **Oᴡɴᴇʀ:** [ANKIT3690](https://t.me/ANKIT3690) 
+├🔸 **Oᴡɴᴇʀ:** [Saurav3BV6SA9LLElon7Musk](https://t.me/Saurav3BV6SA9LLElon7Musk)
 
 This Bot is only for file sharing made by my creator.
 """
